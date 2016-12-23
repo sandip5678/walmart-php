@@ -1,0 +1,234 @@
+- Default Category
+	- Amazon Device Accessories
+	- Amazon Kindle
+	- Automotive & Powersports
+	- Baby Products
+	- Beauty
+	- Books
+	- Camera & Photo
+	- Cell Phones
+	- Clothing & Accessories
+	- Collectible Coins
+	- Collectibles (Books)
+	- Collectibles (Entertainment)
+	- Electronics (Accessories)
+	- Electronics (Consumer)
+	- Fine Art
+	- Grocery & Gourmet Food
+	- Handmade
+	- Health & Personal Care
+	- Historical & Advertising Collectibles
+	- Home & Garden
+	- Industrial & Scientific
+	- Luggage & Travel Accessories
+	- Music
+	- Musical Instruments
+	- Office Products
+	- Outdoors
+	- Personal Computers
+	- Shoes, Handbags & Sunglasses
+	- Software & Computer Games
+	- Sports
+	- Sports Collectibles
+	- Tools & Home Improvement
+	- Toys & Games
+	- Video, DVD & Blu-Ray
+	- Video Games & Video Game Consoles
+	- Watches
+	- Wine
+	- Jewelry
+		- Women
+			- Fine
+				- Anklets
+				- Bracelets
+					- Bangle
+					- Cuff
+					- Identification
+					- Link
+					- Strand
+					- Stretch
+					- Tennis
+					- Wrap
+				- Brooches & Pins
+				- Charms & Charm Bracelets
+					- Charm Bracelets
+						- Italian Style
+						- Link
+						- Snake
+					- Charms
+						- Bead
+						- Clasp
+						- Italian Style
+				- Earrings
+					- Ball
+					- Clip-Ons
+					- Cuffs & Wraps
+					- Diamond Accented
+					- Drop & Dangle
+					- Earring Jackets
+					- Hoop
+					- Stud
+				- Jewelry Sets
+				- Necklaces
+					- Chains
+					- Chokers
+					- Collars
+					- Lockets
+					- Pearl Strands
+					- Pendant Enhancers
+					- Pendants
+					- Strands
+					- Torque
+					- Y-Necklaces
+				- Rings
+					- Bands
+					- Stacking
+					- Statement
+			- Fashion
+				- Anklets
+				- Bracelets
+					- Bangle
+					- Cuff
+					- Identification
+					- Link
+					- Strand
+					- Stretch
+					- Tennis
+					- Wrap
+				- Brooches & Pins
+				- Charms & Charm Bracelets
+					- Charm Bracelets
+						- Italian Style
+						- Link
+						- Snake
+					- Charms
+						- Bead
+						- Clasp
+						- Italian Style
+				- Earrings
+					- Ball
+					- Clip-Ons
+					- Cuffs & Wraps
+					- Diamond Accented
+					- Drop & Dangle
+					- Earring Jackets
+					- Hoop
+					- Stud
+				- Jewelry Sets
+				- Necklaces
+					- Chains
+					- Chokers
+					- Collars
+					- Lockets
+					- Pearl Strands
+					- Pendant Enhancers
+					- Pendants
+					- Strands
+					- Y-Necklaces
+				- Rings
+					- Bands
+					- Stacking
+					- Statement
+			- Religious
+				- Bracelets
+					- Bangle
+					- Link
+					- Strand
+					- Stretch
+					- Wrap
+				- Brooches & Pins
+				- Charms & Charm Bracelets
+					- Charm Bracelets
+					- Charms
+				- Earrings
+					- Drop & Dangle
+					- Hoop
+					- Stud
+				- Necklaces & Pendants
+					- Chains
+					- Chokers
+					- Lockets
+					- Pendants
+					- Strands
+				- Rings
+			- Wedding & Engagement
+				- Bridal Sets
+				- Engagement Rings
+				- Promise Rings
+				- Ring Enhancers
+				- Wedding Rings
+					- Plain Bands
+					- Diamond Bands
+					- Anniversary Rings
+					- Eternity Rings
+		- Men
+			- Bracelets
+				- Cuff
+				- Identification
+				- Link
+			- Necklaces
+			- Cuff Links
+			- Earrings
+			- Rings
+			- Shirt Studs
+			- Tie Clips
+			- Tie Pins
+			- Religious
+				- Bracelets
+				- Necklaces & Pendants
+				- Cuff Links
+				- Earrings
+				- Rings
+				- Tie Pins & Clips
+			- Wedding Rings
+		- Girls
+			- Anklets
+			- Bracelets
+				- Bangle
+				- Charm
+				- Cuff
+				- Identification
+				- Link
+			- Brooches & Pins
+			- Earrings
+				- Ball
+				- Drop & Dangle
+				- Hoop
+				- Stud
+			- Necklaces & Pendants
+				- Chains
+				- Lockets
+				- Pendants
+			- Rings
+			- Religious
+				- Bracelets
+				- Brooches & Pins
+				- Charms & Charm Bracelets
+					- Charm Bracelets
+					- Charms
+				- Earrings
+				- Necklaces & Pendants
+					- Chains
+					- Lockets
+					- Pendants
+				- Rings
+		- Boys
+			- Bracelets
+			- Necklaces
+			- Cuff Links
+			- Rings
+			- Tie Clips
+			- Religious
+				- Bracelets
+				- Necklaces & Pendants
+				- Rings
+		- Accessories
+			- Cleaning & Care
+			- Jewelry Boxes & Organizers
+				- Jewelry Armoires
+				- Jewelry Boxes
+				- Jewelry Chests
+				- Jewelry Rolls
+				- Jewelry Towers
+				- Jewelry Trays
+				- Hanging Jewelry Organizers
